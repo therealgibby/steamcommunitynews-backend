@@ -22,6 +22,8 @@ YT_API_KEY=[Your API key]
 PORT=[Your port]
 ```
 
+Make sure the port here matches the port in the fetch made in the Chrome Extension from "background.js".
+
 3. Run "index.js" inside "/dist" folder
 
 ```
