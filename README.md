@@ -7,7 +7,7 @@ API for the related Chrome extension.
 1. Node
 2. Git
 
-## How to install
+## How to install and run
 
 1. Clone this project
 
