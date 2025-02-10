@@ -1,8 +1,8 @@
 import express from "express";
 import cors from "cors";
 
-const port = 8080;
 const app = express();
+const port = process.env.PORT;
 const apiKey = process.env.YT_API_KEY;
 
 app.use(cors());
