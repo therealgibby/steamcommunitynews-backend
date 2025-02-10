@@ -15,7 +15,7 @@ API for the related Chrome extension.
 git clone [Repository URL]
 ```
 
-2. Create ".env" file and add your Google API key with permissions to Youtube Data API V3.
+2. Add ".env" file to the root directory and add your Google API key with permissions to Youtube Data API V3.
 
 ```
 YT_API_KEY=[Your API key]
