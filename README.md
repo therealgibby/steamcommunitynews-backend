@@ -19,6 +19,7 @@ git clone [Repository URL]
 
 ```
 YT_API_KEY=[Your API key]
+PORT=[Your port]
 ```
 
 3. Run "index.js" inside "/dist" folder
